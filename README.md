@@ -1,3 +1,5 @@
+WARNING: Code needs to be refactored to comply with Google API documentation due to too many requests. 
+
 # malcheck
 Web scraper checking all pages of a website for malicious URLs using Google Safe Browsing API and a headless chromium browser in order to check css selectors, embedded javascript, and links protected by javascript interactivity. 
 
